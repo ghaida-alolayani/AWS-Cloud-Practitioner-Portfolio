@@ -1,7 +1,6 @@
-note-template.md
-
-lab-template.md
-
-project-template.md
-
-course-template.md
+templates/
+│
+├── note-template.md
+├── lab-template.md
+├── project-template.md
+└── course-template.md
